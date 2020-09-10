@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Ademola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emricky19&show_icons=true)](https://github.com/AVS1508)
+[![Ademola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emricky19&show_icons=true)](https://github.com/Emricky19)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
