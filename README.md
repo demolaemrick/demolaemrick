@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | React.js
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git
 - 🖥 &nbsp; Illustrator| Photoshop
