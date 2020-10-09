@@ -21,7 +21,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.instagram.com/demolaemrick/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-demolaemrick-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ademolaakindotuni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ademolaakindotuni@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
