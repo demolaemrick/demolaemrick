@@ -1,29 +1,57 @@
-<h2> Hey there! I'm Ademola.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+### Hi there, I'm [Ademola!](https://anuraghazra.github.io) 👋
+
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Akindotuni Ademola | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Akindotun Ademola, a computer science student from Nigeria.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Achievers University, Owo.
 - 🌱 &nbsp; Learning more about web development.
-- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+- 🌱 I’m currently learning Typescript
 
-<h3>🛠 Tech Stack</h3>
+**Languages and Tools:**  
 
-- 💻 &nbsp; Python | Javascript
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | React.js
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git
-- 🖥 &nbsp; Illustrator| Photoshop
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<br/>
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
-[![Ademola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emricky19&show_icons=true)](https://github.com/Emricky19)
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<h3> 🤝🏻 Connect with Me </h3>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<p align="left">
-<a href="https://www.instagram.com/demolaemrick/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-demolaemrick-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ademolaakindotuni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ademolaakindotuni@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
-⭐️ From [Ademola](https://github.com/Emricky19)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
