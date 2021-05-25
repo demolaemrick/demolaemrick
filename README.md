@@ -39,8 +39,8 @@ Hi, I'm Akindotun Ademola, a computer science student from Nigeria.
 <a href="https://github.com/demolaemrick/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=demolaemrick&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ademola's github stats" />
 </a>
-<a href="https://github.com/emricy19/github-readme-stats">
+<a href="https://github.com/demolaemrick/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=emricky19&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=demolaemrick&layout=compact&theme=material-palenight" />
 </a>
 
