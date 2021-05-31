@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Akindotun Ademola, a computer science student from Nigeria.
+Hi, I'm Akindotuni Ademola, a computer science student from Nigeria.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Achievers University, Owo.
