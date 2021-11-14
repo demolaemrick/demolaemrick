@@ -4,7 +4,7 @@
 <a href="https://codesandbox.io/u/emricky19">
   <img align="left" alt="Akindotuni Ademola | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/demolaemrick">
+<a href="https://twitter.com/demolaemrick__">
   <img align="left" alt="Akindotuni Ademola| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
