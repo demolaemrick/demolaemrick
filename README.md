@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Akindotuni Ademola, a software developer from Nigeria.
+Hi, I'm Ademola Akindotuni, a software developer from Nigeria.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at Achievers University, Owo.
