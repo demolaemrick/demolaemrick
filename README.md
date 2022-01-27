@@ -14,7 +14,7 @@
 Hi, I'm Ademola Akindotuni, a software developer from Nigeria.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at Achievers University, Owo.
+- 🎓 &nbsp; B.sc Computer Science
 - 🌱 &nbsp; Learning more about web development.
 
 **Languages and Tools:**  
