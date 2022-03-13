@@ -4,14 +4,14 @@
 <a href="https://codesandbox.io/u/emricky19">
   <img align="left" alt="Akindotuni Ademola | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/demolaemrick__">
+<a href="https://twitter.com/demolaemrick">
   <img align="left" alt="Akindotuni Ademola| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Ademola Akindotuni, I am a software developer.
+Hi, I'm Ademola and I am a software developer.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.sc Computer Science
