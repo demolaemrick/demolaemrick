@@ -14,7 +14,7 @@
 Hi, I'm Ademola and I am a software developer.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; B.sc Computer Science
+- 🎓 &nbsp; B.sc Computer Science.
 - 🌱 &nbsp; Learning more about web technologies.
 
 **Languages and Tools:**  
