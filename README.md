@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Ademola and I am a software developer.
+Hi, I'm Ademola and I'm a software engineer.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.sc Computer Science.
